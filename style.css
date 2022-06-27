@@ -3,3 +3,32 @@ body {
   height: 100%;
   margin: 0;
 }
+
+header {
+  text-align:center;
+}
+
+figure {
+  text-align:center;
+
+}
+
+nav > a {
+  margin:auto;
+  padding-right: 10px;
+  padding-left: 10px;
+  background-color:aqua;
+}
+
+section > p {
+  width:800px;
+  text-align:center;
+  margin: auto;
+  margin-bottom:5px;
+}
+
+#details > div {
+  float: left;
+  background-color:blanchedalmond;
+  width:25%;
+}
